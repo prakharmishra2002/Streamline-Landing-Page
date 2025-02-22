@@ -1,4 +1,4 @@
-# 🌟 Streamline Landing Page 🌟
+<h1 align='Center'> 🌟 Streamline Landing Page 🌟 </h1>
 
 Welcome to the **Streamline Landing Page** project! This repository contains the codebase for a modern, responsive, and sleek landing page built with React and Next.js.
 
