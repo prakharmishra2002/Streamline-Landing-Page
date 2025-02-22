@@ -6,10 +6,10 @@ Welcome to the **Streamline Landing Page** project! This repository contains the
 
 ## 🚀 Table of Contents
 1. [Features](#Features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Project Structure](#project-structure)
-5. [Contributing](#contributing)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Project Structure](#Project-Structure)
+5. [Contributing](#Contributing)
 
 ## ✨Features
 - Responsive design that works on all devices 📱💻
@@ -17,7 +17,7 @@ Welcome to the **Streamline Landing Page** project! This repository contains the
 - Optimized for performance and SEO ⚡
 - Easy to customize and extend 🔧
 
-## 🛠 Installation
+## 🛠Installation
 To get started with the project, follow these steps:
 
 1. **Clone the repository:**
@@ -33,10 +33,10 @@ To get started with the project, follow these steps:
      ```bash
      npm start
 
-## 🧑‍💻 Usage
+## 🧑‍💻Usage
 After starting the development server, you can view the landing page in your browser at http://localhost:3000. Customize the components and styles to fit your needs.
 
-## 📂 Project Structure
+## 📂Project-Structure
 Here's a breakdown of the project structure:
 
      Streamline Landing Page/
@@ -77,6 +77,6 @@ Here's a breakdown of the project structure:
       ├── postcss.config.js
       ├── tailwind.config.ts
       └── tsconfig.json
-## 🤝 Contributing
+## 🤝Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. 
 
