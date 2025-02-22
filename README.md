@@ -11,7 +11,7 @@ Welcome to the **Streamline Landing Page** project! This repository contains the
 4. [Project Structure](#project-structure)
 5. [Contributing](#contributing)
 
-## ✨Features
+## ✨ Features
 - Responsive design that works on all devices 📱💻
 - Beautiful UI components for a professional look 🎨
 - Optimized for performance and SEO ⚡
