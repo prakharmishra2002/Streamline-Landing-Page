@@ -5,13 +5,13 @@ Welcome to the **Streamline Landing Page** project! This repository contains the
 ![Streamline Landing Page](https://github.com/prakharmishra2002/Streamline-Landing-Page/blob/main/ScreenShot.png) 
 
 ## 🚀 Table of Contents
-1. [Features](#features)
+1. [Features](#Features)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Project Structure](#project-structure)
 5. [Contributing](#contributing)
 
-## ✨ Features
+## Features
 - Responsive design that works on all devices 📱💻
 - Beautiful UI components for a professional look 🎨
 - Optimized for performance and SEO ⚡
